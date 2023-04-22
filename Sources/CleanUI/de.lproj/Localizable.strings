@@ -1,0 +1,41 @@
+//  Copyright © 2021 - present Julian Gerhards
+//
+//  Licensed under the Apache License, Version 2.0 (the "License");
+//  you may not use this file except in compliance with the License.
+//  You may obtain a copy of the License at
+//
+//  http://www.apache.org/licenses/LICENSE-2.0
+//
+//  Unless required by applicable law or agreed to in writing, software
+//  distributed under the License is distributed on an "AS IS" BASIS,
+//  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//  See the License for the specific language governing permissions and
+//  limitations under the License.
+//
+//  GitHub https://github.com/knoggl/CleanUI
+//
+
+"cancel" = "Abbrechen";
+"search" = "Suchen";
+"thousandabbreviation" = "Tsd.";
+"millionabbreviation" = "Mio.";
+"billionabbreviation" = "Mrd.";
+"showmore" = "Mehr anzeigen";
+"showless" = "Weniger anzeigen";
+"cancel" = "Abbrechen";
+"continue" = "Fortfahren";
+"close" = "Schließen";
+"secondsago" = "Vor x@ Sekunden";
+"minutesago" = "Vor x@ Minuten";
+"hoursago" = "Vor x@ Stunden";
+"daysago" = "Vor x@ Tagen";
+"weeksago" = "Vor x@ Wochen";
+"monthsago" = "Vor x@ Monaten";
+"yearsago" = "Vor x@ Jahren";
+"secondago" = "Vor x@ Sekunde";
+"minuteago" = "Vor x@ Minute";
+"hourago" = "Vor x@ Stunde";
+"dayago" = "Vor x@ Tag";
+"weekago" = "Vor x@ Woche";
+"monthago" = "Vor x@ Monat";
+"yearago" = "Vor x@ Jahr";
